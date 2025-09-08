@@ -312,7 +312,7 @@
     "coords": "29.344199, 47.951210"
   },
   {
-    "name": "Five Gaye Shuwaik",
+    "name": "Five Guys Shuwaik",
     "coords": "29.341630, 47.943016"
   },
   {
@@ -419,7 +419,8 @@
     "name": "Street Dasman Blok 1",
     "coords": "29.390448, 47.997630"
   },
-  { "name": "dMix Morqab Block 3",
+  { 
+    "name": "dMix Morqab Block 3",
     "coords": "29.372782, 47.988549"
   },
   {
@@ -439,7 +440,7 @@
     "coords": "29.320361, 47.927706"
   },
   {
-    "name": "Sogo, Qibla":,
+    "name": "Sogo, Qibla",
     "coords": "29.361405, 47.967384"
   }
 ]
