@@ -24,15 +24,15 @@
     "coords": "29.312279, 47.981002"
   },
   {
-    "name": "Block 1, Kaifan MR CAT",
+    "name": "MR CAT Block 1, Kaifan",
     "coords": "29.338992, 47.971464"
   },
   {
-    "name": "Kaifan Shawarma Mishref, Kaifan",
+    "name": "Shawarma Mishref, Kaifan",
     "coords": "29.341686, 47.951469"
   },
   {
-    "name": "Yarmouk, Rashid Burger, Yarmouk",
+    "name": "Rashid Burger, Yarmouk",
     "coords": "29.309481, 47.969162"
   },
   {
@@ -60,15 +60,15 @@
     "coords": "29.338800, 47.962300"
   },
   {
-    "name": "Kaifan, WK, Kaifan",
+    "name": "WK, Kaifan",
     "coords": "29.342372, 47.950855"
   },
   {
-    "name": "Mayar, Kuwait City TGO",
+    "name": "Mayar, Kuwait City",
     "coords": "29.377190, 47.976766"
   },
   {
-    "name": "Zaatar W Zeit, Hawally TGO",
+    "name": "Zaatar W Zeit, Hawally",
     "coords": "29.340598, 48.028980"
   },
   {
@@ -88,11 +88,11 @@
     "coords": "29.318643, 48.088197"
   },
   {
-    "name": "DH Kitchen The Kind Ones, (DH Kitchen), Salmiya",
+    "name": "DH Kitchen Salmiya",
     "coords": "29.330316, 48.086506"
   },
   {
-    "name": "dh kitchen Dunkin Donuts, Salmiya, (DH Kitchen)",
+    "name": "DH Kitchen 2 Salmiya",
     "coords": "29.330044, 48.086457"
   },
   {
@@ -104,15 +104,11 @@
     "coords": "29.375987, 47.976340"
   },
   {
-    "name": "Abdullah al-Salem block 3",
-    "coords": "29.352364, 47.979969"
-  },
-  {
     "name": "WAHERD FALAFEL AL QOR",
     "coords": "29.369997, 48.007897"
   },
   {
-    "name": "Sharq, Kuwait Froyo",
+    "name": "Froyo Sharq",
     "coords": "29.377355, 47.978533"
   },
   {
@@ -128,7 +124,7 @@
     "coords": "29.368176, 47.970342"
   },
   {
-    "name": "Hawally - Block 1 - Bazooka",
+    "name": "Bazooka Hawally B1 ",
     "coords": "29.332733, 48.007551"
   },
   {
@@ -140,7 +136,7 @@
     "coords": "29.296280, 48.009799"
   },
   {
-    "name": "Block 4, Lofat, Salam",
+    "name": "Lofat, Salam",
     "coords": "29.295944, 48.010417"
   },
   {
@@ -156,11 +152,11 @@
     "coords": "29.295875, 48.010477"
   },
   {
-    "name": "Block 1, Beak, Hawally",
+    "name": "Beak, Hawally",
     "coords": "29.333011, 48.007106"
   },
   {
-    "name": "Beirut Street, Hawally, international",
+    "name": "Beirut Street, Hawally",
     "coords": "29.336667, 48.019889"
   },
   {
@@ -168,7 +164,7 @@
     "coords": "29.349306, 47.963467"
   },
   {
-    "name": "alhajery pharmacy, Bneid Al Qar",
+    "name": "Alhajery pharmacy, Bneid Al Qar",
     "coords": "29.370216, 48.008908"
   },
   {
@@ -188,7 +184,7 @@
     "coords": "29.341947, 47.951420"
   },
   {
-    "name": "Farooj Abo Alabed, Hawally Cloud Kitchen",
+    "name": "Farooj Abo Alabed, Hawally",
     "coords": "29.337333, 48.019959"
   },
   {
@@ -196,7 +192,7 @@
     "coords": "29.352930, 47.980023"
   },
   {
-    "name": "Mart, Rai Talabat",
+    "name": "Talabat Mart Rai",
     "coords": "29.315528, 47.959777"
   },
   {
@@ -244,7 +240,7 @@
     "coords": "29.349400, 47.963480"
   },
   {
-    "name": "Block 4 Pick, Adailiya",
+    "name": "Pick, Adailiya",
     "coords": "29.327472, 47.984639"
   },
   {
@@ -274,10 +270,6 @@
   {
     "name": "Badar Al Badoor Restaurant, Bneid Al Qar",
     "coords": "29.367248, 48.010057"
-  },
-  {
-    "name": "Kaifan (Abu Saleem",
-    "coords": "29.344227, 47.951221"
   },
   {
     "name": "Mishmash, Kaifan",
@@ -328,7 +320,7 @@
     "coords": "29.352480, 47.980381"
   },
   {
-    "name": "meet",
+    "name": "Meet",
     "coords": "29.334912, 48.017218"
   },
   {
@@ -336,19 +328,19 @@
     "coords": "29.334912, 48.017219"
   },
   {
-    "name": "La baguette, Hawally",
+    "name": "La Baguette, Hawally",
     "coords": "29.336274, 48.021024"
   },
   {
-    "name": "Kuwait Local beet, maleya",
+    "name": "Kuwait Local Beet, Maleya",
     "coords": "29.362417, 47.961861"
   },
   {
-    "name": "Salhiya Pineapple Bar, Kuwait",
+    "name": "Pineapple Bar, Kuwait",
     "coords": "29.368280, 47.972024"
   },
   {
-    "name": "Jabriya B1 ForeverMore, Jabriya",
+    "name": "ForeverMore, Jabriya",
     "coords": "29.321137, 48.024435"
   },
   {
@@ -356,7 +348,7 @@
     "coords": "29.3719060, 48.0074580"
   },
   {
-    "name": "Shaab, Hawally Elamigos, Shaab",
+    "name": "Elamigos, Shaab",
     "coords": "29.350329, 48.017325"
   },
   {
@@ -364,11 +356,11 @@
     "coords": "29.361735, 47.967391"
   },
   {
-    "name": "Assimah Mal Monoprix, Mirqab",
+    "name": "Monoprix, Mirqab",
     "coords": "29.373497, 47.987421"
   },
   {
-    "name": "Sharq Bartone, Sharq",
+    "name": "Bartone, Sharq",
     "coords": "29.384312, 47.991401"
   },
   {
@@ -376,7 +368,7 @@
     "coords": "29.352667, 47.980083"
   },
   {
-    "name": "sharq, Kuwait Cacao",
+    "name": "Cacao Sharq",
     "coords": "29.384206, 47.991314"
   },
   {
@@ -388,7 +380,7 @@
     "coords": "29.360546, 47.996986"
   },
   {
-    "name": "Kaifan Juice",
+    "name": "Juice Kaifan ",
     "coords": "29.345619, 47.954821"
   },
   {
@@ -404,23 +396,19 @@
     "coords": "29.341114, 47.943256"
   },
   {
-    "name": "Shuwaikh Overjar",
+    "name": " Overjar Shuwaikh",
     "coords": "29.341306, 47.943250"
   },
   {
-    "name": "Royal Kaifan Pharmacy",
+    "name": "Royal Pharmacy Kaifan",
     "coords": "29.341813, 47.952688"
   },
   {
     "name": "Kabab Shuwaikh Resideentiral",
     "coords": "29.354452, 47.958255"
   },
-  {
-    "name": "Street Dasman Blok 1",
-    "coords": "29.390448, 47.997630"
-  },
   { 
-    "name": "dMix Morqab Block 3",
+    "name": "DMix Morqab",
     "coords": "29.372782, 47.988549"
   },
   {
