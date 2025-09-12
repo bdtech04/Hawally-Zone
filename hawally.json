@@ -1,5 +1,45 @@
 [
   {
+    "name": "Tabel, Salmiya Block 11",
+    "coords": "29.336700, 48.050100"
+  },
+  {
+    "name": "Taw Alail, Hawally",
+    "coords": "29.336719, 48.021915"
+  },
+  {
+    "name": "Starbucks Kipco Tower",
+    "coords": "29.375900, 47.987045"
+  },
+  {
+    "name": "Slice Qibla",
+    "coords": "29.361646, 47.967322"
+  },
+  {
+    "name": "Say Suco Qibla",
+    "coords": "29.361988, 47.968111"
+  },
+  {
+    "name": "Salt, Shuwaikh Industria",
+    "coords": "29.340962, 47.941483"
+  },
+  {
+    "name": "The Bowl, Kuwait City",
+    "coords": "29.377272, 47.977797"
+  },
+  {
+    "name": "Chili belly, Hawally Block 4",
+    "coords": "29.346800, 48.017600"
+  },
+  {
+    "name": "Mais Alghanim, Bneid Algar Block  3",
+    "coords": "29.379441, 47.999499"
+  },
+  {
+    "name": "Pharmazone, Salmiya Shifa Block 10",
+    "coords": "29.321381, 48.062040"
+  },
+  {
     "name": "The Cheesecake Factory, Bneid Al Qar",
     "coords": "29.384917, 48.003361"
   },
