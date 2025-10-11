@@ -1,4 +1,8 @@
-[
+[ 
+  {
+    "name": "Chicter Hawally",
+    "coords": "29.339273, 48.022521"
+  },
   {
     "name": "Tabel, Salmiya Block 11",
     "coords": "29.336700, 48.050100"
@@ -14,10 +18,6 @@
   {
     "name": "Kanafany Kaifan 80",
     "coords": "29.343864, 47.950991"
-  },
-  {
-    "name": "Chicter Hawally",
-    "coords": "29.339273, 48.022521"
   },
   {
     "name": "For",
