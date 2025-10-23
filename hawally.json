@@ -1,4 +1,127 @@
 [ 
+  [ 
+  {
+    "name": "TOBO Yarmouk",
+    "coords": "29.310055, 47.968991"
+  },
+  {
+    "name": "The Coffee Bean & Tea Leaf, Yarmouk",
+    "coords": "29.313537, 47.966227"
+  },
+  {
+    "name": "Zo bakery, Yarmouk B1",
+    "coords": "29.314244, 47.971633"
+  },
+  {
+    "name": “Starbucks, Adeliya Co-Op",
+    "coords": "29.328584, 47.981455"
+  },
+  {
+    "name": "Chicken Tikka, Adailiya TGO",
+    "coords": "29.328370, 47.982064"
+  },
+  {
+    "name": “Monza Hawallyr",
+    "coords": "29.341473, 47.951779"
+  },
+  {
+    "name": "Cafe Bazza, Shamiya",
+    "coords": "29.341473, 47.951779"
+  },
+  {
+    "name": "Petit four, Hawally",
+    "coords": "29.331893, 48.007867"
+  },
+  {
+    "name": "Dolma, Hawally",
+    "coords": "29.331931, 48.007921"
+  },
+  {
+    "name": "Domino's Pizza, Hawally
+",
+    "coords": "29.320999, 48.028267"
+  },
+  {
+    "name": "karak station, jabriya",
+    "coords": "29.361837, 47.967376"
+  },
+  {
+    "name": "ForeverMore, Maleya",
+    "coords": "29.361143, 47.968250"
+  },
+  {
+    "name": "Chicken King, Hawally",
+    "coords": "29.329722, 48.028833"
+  },
+  {
+    "name": "Ananas Bar, Kuwait City TGO",
+    "coords": "29.368486, 47.972144"
+  },
+  {
+    "name": "Simsim, Qibla TGO",
+    "coords": "29.368511, 47.972335"
+  },
+  {
+    "name": "Villa Fayrouz Express",
+    "coords": "29.353080, 48.026013"
+  },
+  {
+    "name": "District Butchery, SHAAB",
+    "coords": “29.352042, 48.028987"
+  },
+  {
+    "name": "The Coffee Bean & Tea Leaf, Daiya",
+    "coords": "29.359875, 48.021933"
+  },
+  {
+    "name": "Al Dhahia Juice, Bneid Al-Gar",
+    "coords": "29.369560, 48.004560"
+  },
+  {
+    "name": "Memories Sweet, Rumaithiya",
+    "coords": "29.311556, 48.060606"
+  },
+  {
+    "name": "Caramel, Bneid Al Qar",
+    "coords": "29.369388, 48.011296"
+  },
+  {
+    "name": "The Coffee Bean Daiya ",
+    "coords": "29.363200, 48.023000"
+  },
+  {
+    "name": "Pick salmeya B10",
+    "coords": "29.321556, 48.060056"
+  },
+  {
+    "name": "Assaha Bnaid Al Gar,r",
+    "coords": "29.374527, 48.004193"
+  },
+  {
+    "name": "Mcdonald`s, Rumaithiya",
+    "coords": "29.315916, 48.064493"
+  },
+  {
+    "name": "Chili's Green Island, Daiya",
+    "coords": "29.363900, 48.024500"
+  },
+  {
+    "name": "Caribou Coffee, Rumaithia",
+    "coords": "29.315674, 48.064831"
+  },
+  {
+    "name": "UR Sharq",
+    "coords": "29.383744, 47.988194"
+  },
+  {
+    "name": "BBT, Kuwait City
+",
+    "coords": "29.382463, 47.993212"
+  },
+  {
+    "name": "Wingstop, salwa",
+    "coords": "29.320341, 48.088398"
+  },
   {
     "name": "Chicter Hawally",
     "coords": "29.339273, 48.022521"
